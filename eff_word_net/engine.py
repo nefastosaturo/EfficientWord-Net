@@ -1,7 +1,6 @@
 import json
 from os.path import isfile , join
 import numpy as np
-import pyaudio
 
 from typing import Tuple , List
 
